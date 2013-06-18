@@ -1,0 +1,14 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [1.733,45.725]},
+      "properties": {
+	"title": "Jardins Partagés de la Vienne",
+	"description" : "...",
+	"marker-size":"large",
+	"marker-symbol":"park2",
+	"marker-color":"#3cb371"
+	}
+      }
+     ]
+}
