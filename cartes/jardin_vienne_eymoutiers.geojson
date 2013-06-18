@@ -1,7 +1,7 @@
 { "type": "FeatureCollection",
   "features": [
     { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [1.733,45.725]},
+      "geometry": {"type": "Point", "coordinates": [1.7353,45.741]},
       "properties": {
 	"title": "Jardins Partagés de la Vienne",
 	"description" : "...",
